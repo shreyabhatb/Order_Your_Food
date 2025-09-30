@@ -1,0 +1,4 @@
+enum PaymentOption {
+  upi,
+  cashOnDelivery,
+}
